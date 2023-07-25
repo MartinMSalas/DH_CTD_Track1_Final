@@ -17,6 +17,7 @@ Codigo Qr:
 
 Proyectos a agregar:
 	Autentificacion de vida para logueo
+ 	Continuous deploy integration
 
 Usuario:
   tiene datos personales, foto, lista de tratamientos, archivo de analisis y recetas
